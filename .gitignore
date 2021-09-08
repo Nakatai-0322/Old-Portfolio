@@ -1,0 +1,3 @@
+# 下書きのMarkdownファイルを無視
+*.md
+*.markdown
