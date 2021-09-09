@@ -1,3 +1,6 @@
-# 下書きのMarkdownファイルを無視
+# 下書きのMarkdownファイルをガン無視
 *.md
 *.markdown
+
+# エディタのファイルはガン無視
+.vscode/
