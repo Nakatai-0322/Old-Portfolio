@@ -8,4 +8,4 @@ Nakatai's Portfolio
 | ---------------- | ------------------------------------ | --------- |
 | GitHub Pages     | https://nakatai.ga                   | Main      |
 | Netlify          | https://portfolio.nakatai.ga         | Backup.   |
-| CloudFlare Pages | https://nakatai-portfolio.pages.dev/ | Backup 2. |
+| CloudFlare Pages | https://nakatai-portfolio.pages.dev/ | Backup2. |
