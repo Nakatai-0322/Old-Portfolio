@@ -64,7 +64,7 @@ jQuery(document).ready(function( $ ) {
     color: "#ecf0f1"
   }
   ];
-  var myDoughnut = new Chart(document.getElementById("html").getContext("2d")).Doughnut(doughnutData);
+  var myDoughnut = new Chart(document.getElementById("HTML").getContext("2d")).Doughnut(doughnutData);
 
   // Photoshop Chart
   var doughnutData = [{
