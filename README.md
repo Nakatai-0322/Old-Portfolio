@@ -2,10 +2,10 @@
 
 Nakatai's Portfolio
 
-GitHub Pages:https://nakatai.ga/
+## Hosting Service List
 
-Netlify:https://portfolio.nakatai.ga/
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8a829734-5bb9-4825-80e2-909b28e93383/deploy-status)](https://app.netlify.com/sites/nakatai-0322-portfolio/deploys)
-
-CloudFlare Pages:https://nakatai-portfolio.pages.dev/
+| Host Name        | URL                                  | Note      |
+| ---------------- | ------------------------------------ | --------- |
+| GitHub Pages     | https://nakatai.ga                   | Main      |
+| Netlify          | https://portfolio.nakatai.ga         | Backup.   |
+| CloudFlare Pages | https://nakatai-portfolio.pages.dev/ | Backup 2. |
