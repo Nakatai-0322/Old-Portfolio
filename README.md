@@ -5,8 +5,7 @@ Nakatai's Portfolio
 
 | Hosting Service Name        | URL                                  | Note      |
 | --- | --- | --- |
-| GitHub Pages     | https://portfolio.nakatai.ga                   | Main      |
-| Netlify          | https://nakatai-portfolio.netlify.app/         | Backup.   |
+| Netlify     | https://portfolio.nakatai.ga                   | Main      |
 
 ## Special Thanks
 
