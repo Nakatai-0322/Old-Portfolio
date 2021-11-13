@@ -12,5 +12,3 @@ Nakatai's Portfolio
 |Name|URL|Reason|
 |--- | --- |---|
 |未経験からWebデザイナーへ！|https://webdesigner-go.com/template/portfolio-02|テンプレート|
-
-Thanks!
